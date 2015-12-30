@@ -9,3 +9,6 @@
         <a href="/auth/register" class="btn btn-primary">Register</a>
     </div>
 </div>
+<div class="container navigation">
+    @include('theme.velms.partial.navigation')
+</div>
