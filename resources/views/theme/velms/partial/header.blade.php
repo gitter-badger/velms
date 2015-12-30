@@ -1,21 +1,11 @@
-<div class="page-header fixed">
-    <div class="page-header-top">
-        <div class="container">
-            <div class="page-logo" style="height: 70px; overflow: hidden;">
-                <a href="/">
-                    <img src="/assets/img/logo.png" alt="V-ELMS" class="img-responsive logo-default" style="margin-top: -3px;">
-                </a>
-            </div>
-            <a href="javascript:;" class="menu-toggler"></a>
-            <div class="top-menu">
-                <ul class="nav navbar-nav pull-right">
-                    <a href="/auth/login" class="btn btn-primary">Login</a>
-                    <a href="/auth/register" class="btn btn-primary">Register</a>
-                </ul>
-            </div>
-        </div>
+<div class="container header">
+    <div class="logo" style="height: 70px; overflow: hidden;">
+        <a href="/">
+            <img src="/assets/img/logo.png" alt="V-ELMS" class="img-responsive logo-default" style="margin-top: -3px;">
+        </a>
     </div>
-    <div class="page-header-menu">
-        @include('theme.velms.partial.navigation')
+    <div class="auth nav navbar-nav pull-right">
+        <a href="/auth/login" class="btn btn-primary">Login</a>
+        <a href="/auth/register" class="btn btn-primary">Register</a>
     </div>
 </div>

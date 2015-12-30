@@ -4,3 +4,4 @@
 .env
 envoy.config.php
 vendor/
+node_modules/
