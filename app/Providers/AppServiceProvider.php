@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Velms\Providers;
 
 use Illuminate\Support\ServiceProvider;
 

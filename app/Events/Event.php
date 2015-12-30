@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Events;
+namespace Velms\Events;
 
 abstract class Event
 {
