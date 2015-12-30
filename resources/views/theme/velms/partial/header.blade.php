@@ -3,7 +3,7 @@
         <div class="container">
             <div class="page-logo" style="height: 70px; overflow: hidden;">
                 <a href="/">
-                    <img src="/assets/logo.png" alt="V-ELMS" class="img-responsive logo-default" style="margin-top: -3px;">
+                    <img src="/assets/img/logo.png" alt="V-ELMS" class="img-responsive logo-default" style="margin-top: -3px;">
                 </a>
             </div>
             <a href="javascript:;" class="menu-toggler"></a>
