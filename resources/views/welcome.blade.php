@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">V-ELMS <br /> <h6>coming soon</h6></div>
+                <div class="title">V-ELMS <h6>coming soon</h6></div>
             </div>
         </div>
     </body>
