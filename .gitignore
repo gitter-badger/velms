@@ -3,3 +3,4 @@
 .env.php
 .env
 envoy.config.php
+vendor/
