@@ -16,6 +16,6 @@
     background: #444D58;
 }
 
-.navigation ul li:hover {
+.navigation ul li a:hover {
     background: rgba(255, 255, 255, 0.3);
 }
