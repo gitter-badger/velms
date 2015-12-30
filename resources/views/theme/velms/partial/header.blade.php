@@ -10,5 +10,7 @@
     </div>
 </div>
 <div class="container-fluid navigation">
-    @include('theme.velms.partial.navigation')
+    <div class="container">
+        @include('theme.velms.partial.navigation')
+    </div>
 </div>
