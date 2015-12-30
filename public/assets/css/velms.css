@@ -1,8 +1,13 @@
 .header {
     height: 70px;
+    line-height: 70px;
 }
 
 .header .logo {
     height: 70px;
     overflow: hidden;
+}
+
+.header .auth {
+    height: 70px;
 }
