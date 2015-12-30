@@ -1,5 +1,5 @@
 <div class="container header">
-    <div class="logo">
+    <div class="logo pull-left">
         <a href="/">
             <img src="/assets/img/logo.png" alt="V-ELMS" class="img-responsive logo-default" style="margin-top: -3px;">
         </a>
