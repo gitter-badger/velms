@@ -25,6 +25,7 @@
     }
 
     .header .toggle-nav .icon-bar {
+        line-height: 70px;
         background: #BCC2CB;
         color: #BCC2CB;
     }
