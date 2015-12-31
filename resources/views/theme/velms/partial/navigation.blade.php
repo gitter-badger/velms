@@ -42,7 +42,6 @@
     <li>
         <a href="/contact-us">Contact Us</a>
     </li>
-    <li role="separator" class="divider visible-xs visible-sm"></li>
     <li>
         <a href="/auth/login" class="visible-xs visible-sm">Login</a>
     </li>
