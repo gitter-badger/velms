@@ -16,7 +16,7 @@ body {
 
 @media (min-width: @screen-sm-min) {
     .header .logo {
-        width: auto;
+        width: 200px;
     }
 }
 
