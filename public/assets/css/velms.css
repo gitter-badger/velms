@@ -59,6 +59,7 @@
     }
 
     .header .auth {
+        display: block;
         height: 70px;
         width: 150px;
         margin-top: 0px;
