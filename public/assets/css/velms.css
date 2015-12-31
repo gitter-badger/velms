@@ -9,6 +9,7 @@
     .header {
         height: 70px;
         line-height: 70px;
+        background: #FFFFFF;
     }
 
     .header .logo {
