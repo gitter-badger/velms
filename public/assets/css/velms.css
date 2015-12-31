@@ -24,7 +24,8 @@
         margin-right: 0px;
     }
 
-    .header .toggle-nav {
+    .header .toggle-nav .icon-bar {
+        background: #BCC2CB;
         color: #BCC2CB;
     }
 
