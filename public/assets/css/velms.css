@@ -10,7 +10,26 @@ body {
 
 .header .logo {
     height: 70px;
+    width: 70px;
     overflow: hidden;
+}
+
+@media (min-width: @screen-sm-min) {
+    .header .logo {
+
+    }
+}
+
+@media (min-width: @screen-md-min) {
+    .header .logo {
+
+    }
+}
+
+@media (min-width: @screen-lg-min) {
+    .header .logo {
+
+    }
 }
 
 .header .auth {
