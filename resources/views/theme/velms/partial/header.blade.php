@@ -1,6 +1,6 @@
 <div class="container-fluid header">
     <div class="container">
-        <div class="logo pull-left">
+        <div class="logo">
             <a href="/">
                 <img src="/assets/img/logo.png" alt="V-ELMS" style="margin-top: -3px;">
             </a>
