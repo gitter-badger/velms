@@ -15,6 +15,24 @@
         width: 90px;
         overflow: hidden;
     }
+
+    .header .auth {
+        height: 70px;
+        width: 150px;
+    }
+
+    .navigation {
+        background: #444D58;
+    }
+
+    .navigation ul li a {
+        color: #BCC2CB;
+    }
+
+    .navigation ul li a:hover {
+        color: #FFFFFF;
+        background: rgba(255, 255, 255, 0.1);
+    }
 }
 
 /* Extra Small Devices, Phones */
@@ -39,21 +57,4 @@
 /* Large Devices, Wide Screens */
 @media only screen and (min-width : 1200px){
 
-}
-
-.header .auth {
-    height: 70px;
-}
-
-.navigation {
-    background: #444D58;
-}
-
-.navigation ul li a {
-    color: #BCC2CB;
-}
-
-.navigation ul li a:hover {
-    color: #FFFFFF;
-    background: rgba(255, 255, 255, 0.1);
 }
