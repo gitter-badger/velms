@@ -17,6 +17,7 @@
     }
 
     .header .auth {
+        display: none;
         height: 70px;
         width: 150px;
         margin-top: 0px;
