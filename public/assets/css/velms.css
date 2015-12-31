@@ -24,6 +24,10 @@
         margin-right: 0px;
     }
 
+    .header .toggle-nav {
+        color: #BCC2CB;
+    }
+
     .navigation {
         background: #444D58;
     }
