@@ -1,5 +1,5 @@
 <div class="container-fluid navigation">
-    <div id="navbar" class="container-fluid collapse navbar-collapse">
+    <div id="navbar" class="container collapse navbar-collapse">
         <ul class="nav navbar-nav">
             <li>
                 <a href="/">Home</a>
