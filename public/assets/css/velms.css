@@ -6,6 +6,10 @@
         background: #EFF3F8;
     }
 
+    .full-width {
+        width: 100%;
+    }
+
     .header {
         height: 70px;
         line-height: 70px;

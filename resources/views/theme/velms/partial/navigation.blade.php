@@ -1,4 +1,4 @@
-<div class="container-fluid navigation">
+<div class="full-width navigation">
     <div id="navbar" class="container collapse navbar-collapse">
         <ul class="nav navbar-nav">
             <li>
