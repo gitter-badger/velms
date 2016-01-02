@@ -34,6 +34,7 @@
     }
 
     .navigation {
+        clear: both;
         background: #444D58;
     }
 
