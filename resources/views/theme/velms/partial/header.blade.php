@@ -19,8 +19,3 @@
         </div>
     </div>
 </div>
-<div class="container-fluid navigation">
-    <div id="navbar" class="container-fluid collapse navbar-collapse">
-        @include('theme.velms.partial.navigation')
-    </div>
-</div>
