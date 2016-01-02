@@ -1,4 +1,4 @@
-<div class="container-fluid header">
+<div class="full-width header">
     <div class="container">
         <div class="logo pull-left">
             <a href="/">
