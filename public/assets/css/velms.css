@@ -40,6 +40,7 @@
     .navigation {
         clear: both;
         background: #444D58;
+        border-radius: 0px;
     }
 
     .navigation ul li a {
