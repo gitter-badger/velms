@@ -1,6 +1,6 @@
 <div class="full-width navigation">
-    <div class="row">
-        <div id="navbar" class="container collapse navbar-collapse">
+    <div id="navbar" class="container collapse navbar-collapse">
+        <div class="row">
             <ul class="nav navbar-nav">
                 <li>
                     <a href="/">Home</a>
