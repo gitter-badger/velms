@@ -19,3 +19,4 @@ for detailed instructions on how to use the V-ELMS application please [check out
 - [NodeJS 4.2.4](https://github.com/nodejs/node)
 - [Composer 1.0](https://github.com/composer/composer)
 - [Git 2.6.4](https://github.com/git/git)
+- [Bootstrap 3.3.6](https://github.com/twbs/bootstrap)
