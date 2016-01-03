@@ -41,7 +41,6 @@
         clear: both;
         background: #444D58;
         border-radius: 0px;
-        display: none;
     }
 
     .navigation ul li a {
@@ -79,9 +78,7 @@
 
 /* Medium Devices, Desktops */
 @media only screen and (min-width : 992px){
-    .navigation {
-        display: block;
-    }
+
 }
 
 /* Large Devices, Wide Screens */
