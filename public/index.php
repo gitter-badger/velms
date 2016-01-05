@@ -3,7 +3,6 @@
 /**
  * V-ELMS - An open source learning management system.
  *
- * @package  V-ELMS
  * @author   Derek Bourgeois <derek@ibourgeois.com>
  */
 
