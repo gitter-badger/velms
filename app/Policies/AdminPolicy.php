@@ -10,7 +10,6 @@ class AdminPolicy
 
     public function __construct()
     {
-
     }
 
     public function before($user)
