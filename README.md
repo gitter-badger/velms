@@ -1,4 +1,4 @@
-# what is velms
+# what is velms [![StyleCI](https://styleci.io/repos/48764146/shield)](https://styleci.io/repos/48764146)
 V-ELMS Learning Management System built with Laravel
 
 # how does velms work
