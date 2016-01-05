@@ -1,10 +1,10 @@
 <?php
 
 /**
- * Laravel - A PHP Framework For Web Artisans
+ * V-ELMS - An open source learning management system.
  *
- * @package  Laravel
- * @author   Taylor Otwell <taylorotwell@gmail.com>
+ * @package  V-ELMS
+ * @author   Derek Bourgeois <derek@ibourgeois.com>
  */
 
 /*
