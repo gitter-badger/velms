@@ -1,4 +1,6 @@
 # what is velms [![StyleCI](https://styleci.io/repos/48764146/shield)](https://styleci.io/repos/48764146)
+
+[![Join the chat at https://gitter.im/velms/velms](https://badges.gitter.im/velms/velms.svg)](https://gitter.im/velms/velms?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 V-ELMS Learning Management System built with Laravel
 
 # how does velms work
